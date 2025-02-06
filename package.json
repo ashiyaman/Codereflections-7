@@ -1,0 +1,12 @@
+{
+  "name": "codereflections-7",
+  "version": "1.0.0",
+  "description": "Code Reflections is a personal playground for exploring and mastering modern JavaScript concepts, with a particular focus on ES6 features and Functional Programming techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
